@@ -1,0 +1,13 @@
+[project]
+name = "langbai-batch-img2img"
+version = "1.0.0"
+description = "Ordered image and per-line positive prompt input node for ComfyUI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Langbai" }]
+keywords = ["comfyui", "img2img", "batch", "prompt"]
+
+[project.urls]
+Repository = "https://github.com/2786886095/langbai-batch-img2img"
+Issues = "https://github.com/2786886095/langbai-batch-img2img/issues"
